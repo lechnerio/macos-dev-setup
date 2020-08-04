@@ -1,5 +1,4 @@
 # basic mac development environment setup
-https://youtu.be/tMNOpaQrfAE?t=2331
 
 ## osx setup commands: 
 
@@ -46,18 +45,7 @@ https://youtu.be/tMNOpaQrfAE?t=2331
      - flutter
      - import cost
      - live server
-  
-
-
-## designer tools
  - `$ brew cask install figma`
-
-
-
-npm install -g lite-server eslint
-
-
-
 
 ## fonts:
 
