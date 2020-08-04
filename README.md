@@ -1,5 +1,5 @@
 # basic mac development environment setup
-
+https://youtu.be/tMNOpaQrfAE?t=2331
 
 ## osx setup commands: 
 
