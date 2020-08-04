@@ -20,15 +20,16 @@ https://youtu.be/tMNOpaQrfAE?t=2331
  - `$ brew install vcprompt`
  - install nvm: https://github.com/nvm-sh/nvm 
    - `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash` 
+ - `$ nvm install stable` 
  - update bash profile: 
    - add `.bash_profile` to home directory (see dotfiles repo)
  - `$ brew cask install spectacle`
  - `$ brew cask install alfred`
    - change to default app instead of spotlight  (system preferences > keyboard > shortcuts)
- - `$ brew cask install google-chrome`
- - `$ brew cask install firefox`
+ - `$ brew cask install google-chrome` and `$ brew cask install firefox`
+   - tabliss, adblock, gofullpage
+   - duckduckgo search engine
  - Install Hyperswitch: https://bahoom.com/hyperswitch/get
- - `$ nvm install stable` 
  - `mkdir ~/development`
  - `$ brew cask install visual-studio-code`
    - update vscode settings
@@ -45,7 +46,7 @@ https://youtu.be/tMNOpaQrfAE?t=2331
      - flutter
      - import cost
      - live server
-    
+  
 
 
 ## designer tools
